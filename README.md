@@ -1,12 +1,13 @@
 # instagram-clone-project
 
-instagram clone with Express + Prisma + React and React Native
+Instagram clone with Express + Prisma + React and React Native + GraphQL
 
 ## User Stories
 
-- [x] Create Account
-- [ ] Log in
-- [ ] Like / Unlike a photo
+- [x] Create Account 20.2.11
+- [x] Request Secret
+- [x] Confirm Secret (Loign)
+- [x] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by User
 - [ ] Search by Location
